@@ -9,7 +9,7 @@ Chaque corps céleste possède des caractéristiques uniques (nom, masse, vitess
 
 | Dossier/Fichier                 | Description |
 |---------------------------------|-------------|
-| **`/src/`**                     | Contient les fichiers PHP du projet |
+| **`/src/`**                     | 
 | `CorpsCeleste.php`              | Classe de base des objets célestes |
 | `Planete.php`                   | Classe pour les planètes |
 | `PlaneteNaine.php`              | Classe pour les planètes naines |
@@ -19,7 +19,7 @@ Chaque corps céleste possède des caractéristiques uniques (nom, masse, vitess
 | `Course.php`                    | Gestion de la course et calcul des orbites |
 | `DecoratorDepart.php`           | Affichage des participants avant la course |
 | `DecoratorResultat.php`         | Affichage des résultats de la course |
-| **`/`**                         | Contient l'interface utilisateur |
+| **`/`**                         | 
 | `index.php`                     | Page principale permettant de lancer la course |
 | **`README.md`**                 | Documentation du projet |
 
